@@ -62,12 +62,12 @@ Identify & Assign Specific Learning Resources.
  Objective 1: IBKR Beginner course/investopedia beginner/Finish babypips course"  
 
 >> Activities: IBKR Beginner course   
-1. Introduction to Futures   
-2. Introduction to Forex  
-3. [overnight-trading](https://www.interactivebrokers.com/campus/trading-course/overnight-trading/)  
+
+1. - [x] Introduction to Futures
+2. - [x] Introduction to Forex  
+3. - [x] [overnight-trading](https://www.interactivebrokers.com/campus/trading-course/overnight-trading/)  
 4. [treasuries](https://www.interactivebrokers.com/campus/trading-course/treasuries-2/)  
-5. [order-types](https://www.interactivebrokers.com/campus/trading-course/introduction-to-tws-order-types/)  
-6. [ordertype-Desktop](https://www.interactivebrokers.com/campus/trading-course/ibkr-desktop-order-type/)  
+5. - [ ] [order-types](https://www.interactivebrokers.com/campus/trading-course/introduction-to-tws-order-types/)  6. [ordertype-Desktop](https://www.interactivebrokers.com/campus/trading-course/ibkr-desktop-order-type/)  
 7. [introduction-to-u-s-equity-market-structure](https://www.interactivebrokers.com/campus/trading-course/iex-introduction-to-u-s-equity-market-structure-course/)  
 8. [monetary-measures](https://www.interactivebrokers.com/campus/trading-course/monetary-measures-economic-output-and-corporate-profits-us/)  
 9. [interest rate](https://www.interactivebrokers.com/campus/trading-course/interest-rates/)  
