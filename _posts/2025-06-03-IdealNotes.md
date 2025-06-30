@@ -1,5 +1,5 @@
 ---
-title: "Notes"
+title: "IdealNotes"
 date: 2025-06-03
 categories: notes
 ---
