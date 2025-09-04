@@ -1,4 +1,24 @@
 theme: minima
 title: pPie's blog
-# description: pPie's description
+description: Learning journey through trading, AI, and personal development
 author: pPie
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+
+# Minima theme settings
+header_pages:
+  - index.md
+  - categories/notes.html
+  - categories/planning.html
+
+# Plugin settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude files from build
+exclude:
+  - README.md

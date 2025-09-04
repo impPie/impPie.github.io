@@ -1,7 +1,7 @@
 ---
 title: "Plan System"
 date: 2025-06-03
-categories: notes
+categories: planning
 ---
 
 # Design the self-study Planning System

@@ -1,0 +1,43 @@
+---
+layout: default
+title: "Categories"
+permalink: /categories/
+---
+
+<h1>Browse by Category</h1>
+
+<div class="category-list">
+  {% assign categories = site.categories | sort %}
+  {% for category in categories %}
+    <div class="category-item">
+      <h2><a href="/categories/{{ category[0] }}.html">{{ category[0] | capitalize }}</a></h2>
+      <p>{{ category[1] | size }} post{% if category[1].size != 1 %}s{% endif %}</p>
+      <ul>
+        {% for post in category[1] limit:3 %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+        {% if category[1].size > 3 %}
+          <li><a href="/categories/{{ category[0] }}.html">... and {{ category[1].size | minus:3 }} more</a></li>
+        {% endif %}
+      </ul>
+    </div>
+  {% endfor %}
+</div>
+
+<style>
+.category-item {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border-left: 3px solid #ccc;
+}
+
+.category-item h2 {
+  margin-top: 0;
+}
+
+.category-item ul {
+  margin: 0.5rem 0;
+}
+</style>
+
+<a href="{{ site.baseurl }}/">&larr; Back to Home</a>
