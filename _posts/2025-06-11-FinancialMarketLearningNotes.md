@@ -1,5 +1,5 @@
 ---
-title: "LearningNotes"
+title: "FinancialMarketLearningNotes"
 date: 2025-06-11
 categories: notes
 ---
@@ -9,7 +9,7 @@ categories: notes
 - Expansion: low interest rate>expand 
 - Peak: natural interest rate increase, inverted yield curve
 - Recession: consecutive quarters of decline GDP
-- **Depression**: Consumers won't borrow nor spend because they are pessimistic about the outlook. 
+- **Depression**: Consumers won’t borrow nor spend because they are pessimistic about the outlook. 
 - Recovery: Start increase hire
 
 # Intro to Future

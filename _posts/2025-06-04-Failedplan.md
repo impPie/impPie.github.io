@@ -1,5 +1,5 @@
 ---
-title: "Plan System"
+title: "Failed Plan System"
 date: 2025-06-03
 categories: planning
 ---

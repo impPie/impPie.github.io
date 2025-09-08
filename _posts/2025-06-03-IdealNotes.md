@@ -2,6 +2,7 @@
 title: "IdealNotes"
 date: 2025-06-03
 categories: notes
+published: false
 ---
 
 ## idea for ai chat
